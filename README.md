@@ -1,2 +1,2 @@
-# Python3-Sunday-Challenge
-Repository of my sunday challenges.
+# Python3-Challenges/Projects
+Repository of my Small challenges and projects.
