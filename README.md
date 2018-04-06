@@ -3,7 +3,7 @@ Repository of my Small challenges and projects.
 
 
 ## 1) Python Lists start at 1 Class
-Small challenge I did to make lists start at 1. Its a brand new class, not inherited, with some other basic list things built in.
+Small challenge I did to make lists start at index 1. Its a brand new class, not inherited, with some other basic list things built in.
 
 
 ## 2) Email Regex
